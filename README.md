@@ -7,8 +7,6 @@ Soy **Cristian Hernández Luna**, estudiante de **Ingeniería en Desarrollo y Ge
 - 📩 Contacto: **crishdez2341@gmail.com**    
 - ⚡ Dato curioso: Me encanta trabajar con **.NET Core**, **SQL Server**, **Swagger**, y experimentar con la gestión de APIs.
 
-![Estadísticas de GitHub de Cristian](https://github-readme-stats.vercel.app/api?username=CrisHL&show_icons=true&include_all_commits=true&theme=radical&locale=es)
-
 ### Lenguajes de Programación 🌐  
 
 - **Conozco y utilizo**:  
