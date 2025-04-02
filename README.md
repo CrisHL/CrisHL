@@ -11,13 +11,13 @@ Soy **Cristian Hernández Luna**, estudiante de **Ingeniería en Desarrollo y Ge
 
 - **Conozco y utilizo**:  
 
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C# logo" width="28">](https://learn.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JS logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET logo" width="28">](https://dotnet.microsoft.com/) |  
-|---|---|---|---|  
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C# logo" width="28">](https://learn.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JS logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET logo" width="28">](https://dotnet.microsoft.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TS logo" width="28">](https://www.typescriptlang.org/) | 
+|---|---|---|---|---|  
 
 - **Aprendiendo actualmente**:  
 
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React logo" width="28">](https://reactjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker logo" width="28">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL logo" width="28">](https://www.postgresql.org/) |  
-|---|---|---|  
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React logo" width="28">](https://reactjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker logo" width="28">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL logo" width="28">](https://www.postgresql.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular logo" width="28">](http://angular.dev/) |
+|---|---|---|---| 
 
 ### Herramientas y Tecnologías 🛠️  
 
